@@ -32,7 +32,7 @@
 
 Usei alguns prints, mas considere acessar o link abaixo para a melhor experiência de usuário:
 
-[Livro: A Era Artificial]()
+[Livro: A Era Artificial](https://gabrielfelipeoliveirarateirodev.github.io/A-Era-Artificial/)
 
 ---
 
