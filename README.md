@@ -18,7 +18,7 @@
 
 ---
 
-![image](https://github.com/GabrielFelipeOliveiraRateiroDev/A-Era-Artificial/assets/149724308/68409116-1490-46ee-9918-9ce43dfd07fb)
+![image](https://github.com/GabrielFelipeOliveiraRateiroDev/A-Era-Artificial/assets/149724308/2c0435b9-0321-4a0a-a5be-ac1123ff570d)
 
 ---
 
